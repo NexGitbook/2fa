@@ -7,6 +7,7 @@
 yarn add --dev jest
 yarn add --dev babel-jest @babel/core @babel/preset-env @babel/preset-react
 yarn add --dev jest-environment-jsdom
+yarn add --dev @testing-library/react 
 ```
 
 3. jest config
