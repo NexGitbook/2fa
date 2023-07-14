@@ -2,7 +2,7 @@
 
 1. 
 ```sh
-npm install -D tailwindcss postcss autoprefixer
+yarn add --dev tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
